@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Physics/朗道理论物理教程(卷05)-统计物理学I(第5版)-[俄]朗道＆栗弗席兹-束仁贵＆束莼(译).pdf filter=lfs diff=lfs merge=lfs -text
+Physics/朗道理论物理教程(卷02)-场论(第8版)-[俄]朗道＆栗弗席兹-鲁欣＆任朗(译).pdf filter=lfs diff=lfs merge=lfs -text
+Physics/现代晶体学2[[:space:]]晶体的结构-中国科学技术大学出版社.pdf filter=lfs diff=lfs merge=lfs -text
+Math/工程数学线性代数第六版.pdf filter=lfs diff=lfs merge=lfs -text
+Math/离散数学及其应用(原书第6版).Kenneth.H.Rosen.pdf filter=lfs diff=lfs merge=lfs -text
