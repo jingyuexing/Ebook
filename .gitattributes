@@ -7,3 +7,4 @@ Math/工程数学线性代数第六版.pdf filter=lfs diff=lfs merge=lfs -text
 Math/离散数学及其应用(原书第6版).Kenneth.H.Rosen.pdf filter=lfs diff=lfs merge=lfs -text
 Physics/《粒子物理导论》-格里菲斯.pdf filter=lfs diff=lfs merge=lfs -text
 Inner[[:space:]]alchemy/西游真诠.100回.清陈士斌诠解.翠筠山房藏版.清康熙年间刊本.pdf filter=lfs diff=lfs merge=lfs -text
+Math/代数(中文版)-[美]迈克尔-阿廷-机械工业出版社.pdf filter=lfs diff=lfs merge=lfs -text
