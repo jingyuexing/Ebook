@@ -3,25 +3,25 @@
 
 ### 算法 (Algorithm)
 * <a href="Algorithm/algorithmic-game-theory(en).pdf">博弈论EN</a>
-* [](Algorithm/数据挖掘：概念与技术（第三版）中文版.pdf)
-* [](Algorithm/数据结构与算法JavaScript描述.pdf)
+* [数据挖掘：概念与技术（第三版）中文版.](Algorithm/数据挖掘：概念与技术（第三版）中文版.pdf)
+* [数据结构与算法JavaScript描述](Algorithm/数据结构与算法JavaScript描述.pdf)
 * <a href="Algorithm/数据结构与算法分析(Java版).pdf">数据结构与算法分析(Java版)</a>
-* [](Algorithm/数据结构与算法分析：C语言描述.pdf)
-* [](Algorithm/算法导论.pdf)
+* [数据结构与算法分析：C语言描述](Algorithm/数据结构与算法分析：C语言描述.pdf)
+* [算法导论](Algorithm/算法导论.pdf)
 
 ### 金融 (Econometrics)
 
-* [](Econometrics/代谢增长论.pdf)
-* [](Econometrics/苏联国民经济计划学+.pdf)
-* [](Econometrics/计量经济学-李子奈.pdf)
+* [代谢增长论](Econometrics/代谢增长论.pdf)
+* [苏联国民经济计划学](Econometrics/苏联国民经济计划学+.pdf)
+* [计量经济学-李子奈](Econometrics/计量经济学-李子奈.pdf)
 
 
 ### 前端 (Front end)
 
-* [](Front_End/Angular/Angular 6 中文官方文档.pdf)
-* [](Front_End/React/Reactive Native 开发指南.pdf)
-* [](Front_End/React/React快速上手开发完整版.pdf)
-* [](Front_End/Vue/Vue.js前端开发 快速入门与专业应用.pdf)
+* [Angular 6 中文官方文档](Front_End/Angular/Angular 6 中文官方文档.pdf)
+* [Reactive Native 开发指南](Front_End/React/Reactive Native 开发指南.pdf)
+* [React快速上手开发完整版](Front_End/React/React快速上手开发完整版.pdf)
+* [Vue.js前端开发 快速入门与专业应用](Front_End/Vue/Vue.js前端开发 快速入门与专业应用.pdf)
 
 ### 玄学 (Inner Alchemy)
 
@@ -54,7 +54,7 @@
 * [神经网络模式识别及其实现](Machine_Learning/神经网络模式识别及其实现.pdf)
 
 
-###数学
+### 数学
 
 
 ### 物理
