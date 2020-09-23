@@ -3,7 +3,7 @@
 
 ### 算法 (Algorithm)
 * <a href="Algorithm/algorithmic-game-theory(en).pdf">博弈论EN</a>
-* [数据挖掘：概念与技术（第三版）中文版.](Algorithm/数据挖掘：概念与技术（第三版）中文版.pdf)
+* <a href="Algorithm/数据挖掘：概念与技术（第三版）中文版.pdf">数据挖掘：概念与技术（第三版）中文版</a>
 * [数据结构与算法JavaScript描述](Algorithm/数据结构与算法JavaScript描述.pdf)
 * <a href="Algorithm/数据结构与算法分析(Java版).pdf">数据结构与算法分析(Java版)</a>
 * [数据结构与算法分析：C语言描述](Algorithm/数据结构与算法分析：C语言描述.pdf)
