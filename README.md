@@ -102,6 +102,20 @@
 * [离散时间信号处理(第2版)](Physics/离散时间信号处理(第2版)_奥本海默.pdf)
 * [高等量子力学（第二版）](Physics/高等量子力学（第二版）-倪光炯, 复旦大学出版社 2005.pdf)
 
+### 红色
+* [资本论 第一卷](Red/Das Kapital/资本论 第一卷.pdf)
+* [资本论 第二卷](Red/Das Kapital/资本论 第二卷.pdf)
+* [资本论 第三卷](Red/Das Kapital/资本论 第三卷.pdf)
+* [Selected Works of Mao Zedong I](Red/Selected Works of Mao Zedong/SELECTED WORKS of MAO TSE-TUNG-1965-v1.pdf)
+* [Selected Works of Mao Zedong II](Red/Selected Works of Mao Zedong/SELECTED WORKS of MAO TSE-TUNG-1965-v2.pdf)
+* [Selected Works of Mao Zedong III](Red/Selected Works of Mao Zedong/SELECTED WORKS of MAO TSE-TUNG-1965-v3.pdf)
+* [Selected Works of Mao Zedong IV](Red/Selected Works of Mao Zedong/SELECTED WORKS of MAO TSE-TUNG-1965-v4.pdf)
+* [Selected Works of Mao Zedong V](Red/Selected Works of Mao Zedong/SELECTED WORKS of MAO TSE-TUNG-1965-v5.pdf)
+* [毛泽东选集第一卷](Red/Selected Works of Mao Zedong/毛泽东选集第一卷.pdf)
+* [毛泽东选集第二卷](Red/Selected Works of Mao Zedong/毛泽东选集第二卷.pdf)
+* [毛泽东选集第四卷](Red/Selected Works of Mao Zedong/毛泽东选集第四卷.pdf)
+* [毛泽东选集第五卷](Red/Selected Works of Mao Zedong/毛泽东选集第五卷.pdf)
+
 
 
 
