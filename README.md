@@ -49,7 +49,7 @@
 * [Neural Network and Deep Learning-ch](Machine_Learning/Neural Network and Deep Learning-ch.pdf)
 * [Neural Networks and Deep Learning-eng](Machine_Learning/Neural Networks and Deep Learning-eng.pdf)
 * [机器学习_周志华](Machine_Learning/机器学习_周志华.pdf)
-* [神经网络与机器学习（原书第3版）](Machine_Learning/神经网络与机器学习（原书第3版）.pdf)
+* <a href="Machine_Learning/神经网络与机器学习(原书第3版).pdf">神经网络与机器学习(原书第3版)</a>
 * <a href="Machine_Learning/神经网络原理(S.Haykin).pdf">神经网络原理(S.Haykin)</a>
 * [神经网络模式识别及其实现](Machine_Learning/神经网络模式识别及其实现.pdf)
 
